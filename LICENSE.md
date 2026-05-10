@@ -1,4 +1,4 @@
-
+Enhance Notion for macOS with Notion for macOS new Macro: task automation & tags, the #1 macro. Includes task automation and tags for a smoother experience.
 
 
 
